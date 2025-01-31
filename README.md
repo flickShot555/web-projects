@@ -8,8 +8,8 @@ including php projects, laravel projects, and simple client-side web projects.
 
 ## College Social Media Website
 
-  https://github.com/flickShot555/CODOTECH/College-Social-Media-Website
+  https://github.com/flickShot555/CODOTECH/tree/main/College-Social-Media-Website
 
 ## IT Services Company Website
 
-  https://github.com/flickShot555/CODOTECH/IT-Services-Company-Website
+  https://github.com/flickShot555/CODOTECH/tree/main/IT-Services-Company-Website
