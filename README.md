@@ -13,3 +13,15 @@ including php projects, laravel projects, and simple client-side web projects.
 ## IT Services Company Website
 
   https://github.com/flickShot555/CODOTECH/tree/main/IT-Services-Company-Website
+
+## Employee Management System Website
+
+  https://github.com/flickShot555/CODOTECH/tree/main/Employee-Management-System
+
+## Fertilizer Shop Webste
+
+  https://github.com/flickShot555/CODOTECH/tree/main/Fertilizer-Shop-Website
+
+## Online Programming Language Compiler Website
+
+  https://github.com/flickShot555/CODOTECH/tree/main/Online-Compiler-Website
